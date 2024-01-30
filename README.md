@@ -1,7 +1,7 @@
 # QRCode Screen Brightness Example
 
 This Flutter application demonstrates how to generate a QR code and control screen brightness based on navigation events.
-
+NOTE:Take the apk output of the code and test it on a real device, otherwise the virtual device will not give you the correct output.
 ## Description
 
 The app consists of a single page (`RouteAwarePage`) where a QR code is displayed with a URL link. The QR code leads to a shortened URL directing to a specific destination. As soon as this page is opened, the screen brightness automatically increases, thus solving the problem of not being able to read the code due to brightness during turnstile passages.
@@ -37,7 +37,7 @@ Contributions are welcome! Please feel free to fork the repository and submit pu
 # QRKod Sayfası Parlaklık Örneği
 
 Bu Flutter uygulaması, bir QR kodu oluşturmayı ve navigasyon olaylarına bağlı olarak ekran parlaklığını kontrol etmeyi göstermektedir.
-
+NOT:Kodun apk çıktısını alarak gerçek bir cihazda test edin aksi takdirde sanal cihaz size doğru çıktı vermez.
 ## Açıklama
 
 Uygulama, bir QR kodunun görüntülendiği tek bir sayfadan (`RouteAwarePage`) oluşur. QR kodu, bir URL bağlantısıyla birlikte görüntülenir. QR kodu, belirli bir hedefe yönlendiren kısaltılmış bir URL'ye gider.Bu sayfa açılır açılmaz ekran parlaklığı otomatik yükselir bu şekilde turnike geçişlerinde parlaklıktan dolayı kodun okunmaması olayı çözülmüş olur.
