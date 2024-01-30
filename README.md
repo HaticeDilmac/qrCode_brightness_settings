@@ -22,8 +22,9 @@ When navigating to and from the `RouteAwarePage`, the screen brightness is adjus
 4. Run `flutter pub get` to install dependencies.
 5. Run the app using `flutter run`.
 
-## Screenshots
-![Screenshot_1706609498](https://github.com/HaticeDilmac/brightness_settings/assets/100489350/e224d8a3-7a87-4e07-b86b-7bcb7e1e7e9f)
+## Screenshots 
+<img src="https://github.com/HaticeDilmac/brightness_settings/assets/100489350/e224d8a3-7a87-4e07-b86b-7bcb7e1e7e9f" width="400" height="800">
+
  
 
 ## Contributing
