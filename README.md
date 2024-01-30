@@ -58,8 +58,9 @@ Uygulama, bir QR kodunun görüntülendiği tek bir sayfadan (`RouteAwarePage`) 
 4. Bağımlılıkları yüklemek için `flutter pub get` komutunu çalıştırın.
 5. Uygulamayı `flutter run` komutunu kullanarak çalıştırın.
 
-## Ekran Görüntüleri
-![Screenshot_1706609498](https://github.com/HaticeDilmac/brightness_settings/assets/100489350/e224d8a3-7a87-4e07-b86b-7bcb7e1e7e9f)
+## Ekran Görüntüleri 
+<img src="https://github.com/HaticeDilmac/brightness_settings/assets/100489350/e224d8a3-7a87-4e07-b86b-7bcb7e1e7e9f" width="400" height="800">
+
  
 
 
