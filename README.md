@@ -23,7 +23,7 @@ When navigating to and from the `RouteAwarePage`, the screen brightness is adjus
 5. Run the app using `flutter run`.
 
 ## Screenshots 
-<img src="https://github.com/HaticeDilmac/brightness_settings/assets/100489350/e224d8a3-7a87-4e07-b86b-7bcb7e1e7e9f" width="400" height="800">
+<img src="https://github.com/HaticeDilmac/brightness_settings/assets/100489350/e224d8a3-7a87-4e07-b86b-7bcb7e1e7e9f" width="300" height="600">
 
  
 
@@ -59,7 +59,7 @@ Uygulama, bir QR kodunun görüntülendiği tek bir sayfadan (`RouteAwarePage`) 
 5. Uygulamayı `flutter run` komutunu kullanarak çalıştırın.
 
 ## Ekran Görüntüleri 
-<img src="https://github.com/HaticeDilmac/brightness_settings/assets/100489350/e224d8a3-7a87-4e07-b86b-7bcb7e1e7e9f" width="400" height="800">
+<img src="https://github.com/HaticeDilmac/brightness_settings/assets/100489350/e224d8a3-7a87-4e07-b86b-7bcb7e1e7e9f" width="300" height="600">
 
  
 
